@@ -1,21 +1,11 @@
-<h2 align="left">Summary:</h2>
-
-This repository serves as a template to easily construct, customize, and publicize a personal portfolio using Markdown. Though it is always fun and impressive to design and deploy a gorgeous personal website, one need not do so in order to show off their portfolio. Simplicity is often just as effective as complexity, if not more so. Hence, this template utilizes Markdown for clean portfolio design, with the intent of being located in a GitHub repository for ease of access.
-
-Below resides the template for the README file, which acts as the main page of your portfolio. Linked within the main page are paths to various other named files in the repository that serve as their own respective pages. These pages may provide examples on what to include. To take one example, the main page suggests providing a headshot of yourself.
-
-Everyone is encouraged to fork, copy, or reference this repository and customize it to their own liking. You need not adhere to everything provided in this template, as the contents presented in this template are merely creative suggestions. You may add, modify, or remove anything as you see fit. Your portfolio is yours to own and customize. Get creative and share your portfolio with the world! 
-
-If you are interested in seeing what a Markdown portfolio may look like, you are welcome to reference [my portfolio](https://github.com/thoresonjd/markdown-portfolio).
-
-If you need help with Markdown, reference the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet).
-
----
----
----
-
 <h1 align="center">Dylan Qiu: Mechanical Engineering Portfolio</h1>
 <h2 align="left">Summary:</h2>
+
+I am a dedicated and curious mechanical engineering student with a strong foundation in problem-solving, design, and hands-on application. My academic and project experiences reflect both technical expertise and creativity, with particular focus on mechanical systems, structural analysis, and control theory. Through coursework, independent projects, and team collaborations, I have developed a working knowledge of engineering principles while cultivating the adaptability needed to solve complex, real-world problems.
+
+Beyond the classroom, I have gained practical experience through Formula SAE, where I contributed to the design and optimization of high-performance vehicle systems. This involvement sharpened my skills in CAD modeling, finite element analysis, and data-driven decision making, while teaching me the value of teamwork under tight deadlines. I also take pride in approaching challenges with both simplicity and precision, ensuring that my solutions are not only functional but also efficient.
+
+This portfolio highlights a range of projects that showcase my ability to apply engineering theory to practice. Each example demonstrates my commitment to learning, innovation, and continuous improvement. My ultimate goal is to contribute to cutting-edge engineering challenges, particularly in automotive and mechanical systems, while growing as a professional in a collaborative and forward-thinking environment.
 
 <table>
   <tbody>
