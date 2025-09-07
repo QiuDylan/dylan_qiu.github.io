@@ -1,6 +1,7 @@
 <h1 align="center">Dylan Qiu Portfolio</h1>
 
-## Summary:
+<h2 align="center">Summary:</h2>
+
 This repository serves as a template to easily construct, customize, and publicize a personal portfolio using Markdown. Though it is always fun and impressive to design and deploy a gorgeous personal website, one need not do so in order to show off their portfolio. Simplicity is often just as effective as complexity, if not more so. Hence, this template utilizes Markdown for clean portfolio design, with the intent of being located in a GitHub repository for ease of access.
 
 Below resides the template for the README file, which acts as the main page of your portfolio. Linked within the main page are paths to various other named files in the repository that serve as their own respective pages. These pages may provide examples on what to include. To take one example, the main page suggests providing a headshot of yourself.
